@@ -2,6 +2,9 @@
 Changelog for package pmb2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.12.2 (2026-08-24)
+-------------------
+
 5.12.1 (2026-07-17)
 -------------------
 * integrating ydlidar in urdf
