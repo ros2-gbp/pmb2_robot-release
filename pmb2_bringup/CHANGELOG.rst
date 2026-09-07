@@ -2,6 +2,12 @@
 Changelog for package pmb2_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+5.12.2 (2026-08-24)
+-------------------
+* Add missing underscore for use_preset
+* Fix naming of preset for the pmb2
+* Contributors: Noel Jimenez, thomas.peyrucain
+
 5.12.1 (2026-07-17)
 -------------------
 
